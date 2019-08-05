@@ -1,34 +1,33 @@
 {
-"cards": [
-  {
-    "logGame": "LOG",
-    "editGame": "EDIT",
-    "title": "Art of War",
-    "subtitle": "What does not kill you mades you stronger"
-  },  {
-    "logGame": "LOG",
-    "editGame": "EDIT",
-    "title": "Hyperion",
-    "subtitle": "Where will the river lead us"
-  },
- 
-  {
-    "logGame": "LOG",
-    "editGame": "EDIT",
-    "title": "Prince of Amber",
-    "subtitle": "Who will take the crown of reality"
-  },
-  {
-    "logGame": "LOG",
-    "editGame": "EDIT",
-    "title": "IT",
-    "subtitle": "Steven King"
-  },
-  {
-    "logGame": "LOG",
-    "editGame": "EDIT",
-    "title": "The Discoworld",
-    "subtitle": "It was not about from what are you running as to what are you running"
-  }
-]
+	"cards": [{
+			"logGame": "LOG",
+			"editGame": "EDIT",
+			"title": "Art of War",
+			"subtitle": "What does not kill you mades you stronger"
+		}, {
+			"logGame": "LOG",
+			"editGame": "EDIT",
+			"title": "Hyperion",
+			"subtitle": "Where will the river lead us"
+		},
+
+		{
+			"logGame": "LOG",
+			"editGame": "EDIT",
+			"title": "Prince of Amber",
+			"subtitle": "Who will take the crown of reality"
+		},
+		{
+			"logGame": "LOG",
+			"editGame": "EDIT",
+			"title": "IT",
+			"subtitle": "Steven King"
+		},
+		{
+			"logGame": "LOG",
+			"editGame": "EDIT",
+			"title": "The Discoworld",
+			"subtitle": "It was not about from what are you running as to what are you running"
+		}
+	]
 }
